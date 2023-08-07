@@ -5,23 +5,31 @@ Este proyecto utiliza el dataset CIC-DDoS2019 para entrenar un modelo Deep Reinf
 
 El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este repositorio de GITHUB
 
-# REQUISITOS
-1. Google Colab o Jupyter Notebook
-2. Paquetes Python:
+## Requisitos
 
-   -Pandas.
-   -Numpy.
-   -Matplotlib.
-   -Stable Baselines3
-   -Sklearn
-   -Tensorflow
-   -Gym
-   -Shap
-   -Swifter
-   -Os
-4. Dataset CIC-DDoS2019
+1. **Plataforma de ejecución:** 
+   - Google Colab o Jupyter Notebook
+2. **Paquetes Python:**
+   - Pandas
+   - Numpy
+   - Matplotlib
+   - Stable Baselines3
+   - Sklearn
+   - Tensorflow
+   - Gym
+   - Shap
+   - Swifter
+   - Os
+3. **Dataset:**
+   - [CIC-DDoS2019](https://www.unb.ca/cic/datasets/ddos-2019.html)
 
-# INSTALACIÓN
+Antes de ejecutar el notebook, asegúrate de que todos los paquetes Python necesarios están instalados en tu entorno. Puedes instalarlos utilizando el siguiente comando:
+
+```bash
+pip install pandas numpy matplotlib stable-baselines3 sklearn tensorflow gym shap swifter
+
+
+## Requisitos
 
 En primer lugar, se debe clonar el repositorio a la máquina local utilizando git:
 
