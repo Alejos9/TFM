@@ -1,7 +1,7 @@
 # TFM
 # DESARROLLO DE UN SISTEMA DE DETECCIÓN DE INTRUSIONES EXPLICABLE BASADO EN TÉCNICAS DE APRENDIZAJE POR REFUERZO EN REDES INFORMÁTICAS
 
-Este proyecto utiliza el dataset CIC-DDoS2019 para entrenar un modelo Deep Reinforcemente Learning para un sistema de detección de intrusiones, en concreto el algoritmo Proximal Policy Optimization, con el obtejivo de detectar los poSibles ataques cibernéticos forma eficiente y precisa. Además, se aplica la inteligencia artificial explicativa para comprender la lógica detrás de la toma de decisiones.
+Este proyecto utiliza el dataset CIC-DDoS2019 para entrenar un modelo Deep Reinforcemente Learning para un sistema de detección de intrusiones, en concreto, el algoritmo Proximal Policy Optimization. El objetivo del trabajo es la detección de los posibles ataques cibernéticos de forma eficiente y precisa. Además, se ha aplicado la inteligencia artificial explicativa para comprender la lógica detrás de la toma de decisiones.
 
 El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este repositorio de GITHUB
 
