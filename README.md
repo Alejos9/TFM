@@ -8,6 +8,7 @@ El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este r
 # REQUISITOS
 1. Google Colab o Jupyter Notebook
 2. Paquetes Python:
+
    -Pandas.
    -Numpy.
    -Matplotlib.
@@ -23,7 +24,8 @@ El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este r
 # INSTALACIÓN
 
 En primer lugar, se debe clonar el repositorio a la máquina local utilizando git:
-  'git clone https://github.com/Alejos9/TFM.git'
+
+`git clone https://github.com/Alejos9/TFM.git`.
   
 # USO
 
