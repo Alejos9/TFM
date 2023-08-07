@@ -7,7 +7,7 @@ El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este r
 
 ## Requisitos
 
-1. **Plataforma de ejecución:** 
+1. **Plataforma de ejecución:**  
    - Google Colab o Jupyter Notebook
 2. **Paquetes Python:**
    - Pandas
@@ -27,15 +27,15 @@ Antes de ejecutar el notebook, asegúrate de que todos los paquetes Python neces
 
 ```bash
 pip install pandas numpy matplotlib stable-baselines3 sklearn tensorflow gym shap swifter
+```
 
-
-## Requisitos
+## Instalación
 
 En primer lugar, se debe clonar el repositorio a la máquina local utilizando git:
 
 `git clone https://github.com/Alejos9/TFM.git`.
   
-# USO
+## Uso
 
 Para utilizar el proyecto, primero deberas iniciar Jupyter notebook en tu entorno local o en el caso de no querer instalar nada localmente, ejecutarlo utilizando la herramienta Google Colab:
   1. Abrir Google Colab: https://colab.research.google.com/
