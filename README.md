@@ -5,7 +5,7 @@ Este proyecto utiliza el dataset CIC-DDoS2019 para entrenar un modelo Deep Reinf
 
 El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este repositorio de GITHUB
 
-#REQUISITOS
+# REQUISITOS
 1. Google Colab o Jupyter Notebook
 2. Paquetes Python:
    -Pandas.
@@ -20,12 +20,12 @@ El proyecto está contenido en un Jupyter notebook (TFM.ypnb), alojado en este r
    -Os
 4. Dataset CIC-DDoS2019
 
-#INSTALACIÓN
+# INSTALACIÓN
 
 En primer lugar, se debe clonar el repositorio a la máquina local utilizando git:
-  #-> git clone https://github.com/Alejos9/TFM.git
+  'git clone https://github.com/Alejos9/TFM.git'
   
-#USO
+# USO
 
 Para utilizar el proyecto, primero deberas iniciar Jupyter notebook en tu entorno local o en el caso de no querer instalar nada localmente, ejecutarlo utilizando la herramienta Google Colab:
   1. Abrir Google Colab: https://colab.research.google.com/
